@@ -1,0 +1,61 @@
+.spc-abt p {
+  margin: 0;
+}
+
+.content-title {
+  font-size: 34px;
+  line-height: 1.3em;
+}
+
+.content-text {
+  font-size: 14px;
+  color: var(--gray);
+}
+
+.spc-abt-big-txt span {
+  font-size: 40px;
+  margin-right: 10px;
+}
+
+.spc-abt-title {
+  margin-top: -10px !important;
+  font-size: 14px;
+  color: var(--gray);
+}
+
+/* drone structure */
+.drone-structure {
+  position: relative;
+}
+
+.drone-text h5 {
+  color: var(--black);
+}
+
+.drone-text {
+  position: absolute;
+  max-width: 311px;
+  padding-left: 7%;
+  font-size: 15px;
+  color: var(--gray);
+}
+
+.drone-text.text1 {
+  top: 31%;
+  left: -2%;
+}
+
+.drone-text.text2 {
+  bottom: -8%;
+  left: 2%;
+}
+
+.drone-text.text3 {
+  top: 24%;
+  right: 5%;
+}
+
+.drone-text.text4 {
+  bottom: 7%;
+  right: 7%;
+}

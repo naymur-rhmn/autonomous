@@ -1,0 +1,19 @@
+.banner-bg {
+  background-position: center;
+  height: 400px;
+  background-attachment: fixed;
+}
+
+.banner-cnt {
+  color: var(--white);
+}
+
+.banner-cnt h2 {
+  font-size: 50px;
+  letter-spacing: 4px;
+  margin-bottom: 0;
+}
+
+.banner-cnt p {
+  font-size: 34px;
+}

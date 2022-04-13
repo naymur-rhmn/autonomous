@@ -1,0 +1,11 @@
+.register {
+  background-color: #0098FB;
+  height: 100vh;
+}
+
+.register-box {
+  width: 300px;
+  height: fit-content;
+  background-color: var(--white);
+  border-radius: 5px;
+}

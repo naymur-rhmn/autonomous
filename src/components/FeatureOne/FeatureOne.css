@@ -1,0 +1,26 @@
+.section-title {
+  position: relative;
+  padding-bottom: 3px;
+}
+
+.section-title:before {
+  position: absolute;
+  bottom: -10px;
+  left: 49%;
+  margin-left: -25px;
+  background-color: var(--blue);
+  height: 1px;
+  width: 50px;
+  content: "";
+}
+
+.section-title::after {
+  position: absolute;
+  bottom: -16px;
+  left: 51%;
+  margin-left: -25px;
+  background-color: var(--blue);
+  height: 1px;
+  width: 50px;
+  content: "";
+}
